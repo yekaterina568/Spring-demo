@@ -1,4 +1,4 @@
-package school_sorokin.reservation_system;
+package reservation_system;
 
 public enum ReservationStatus{
     PENDING,
